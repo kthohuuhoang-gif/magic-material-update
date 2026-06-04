@@ -1,8 +1,8 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.4",
   "url": "https://github.com/kthohuuhoang-gif/magic-material-update/releases/download/magic-latest-update/MagicMaterial_Update.zip",
-  "sha256": "8026b19685239c454204ebb69ffa2073d8e3d39f151a91598d3a6e7e239b6258",
+  "sha256": "285ff7a0c19abcedb7f68158be3f4c39bed7db0a07053a6ab7f1b5240e202547",
   "date": "2026-06-04",
-  "size": 2444292,
-  "notes": "Update opacity"
+  "size": 2501407,
+  "notes": "Bo sung tooltips. Cap nhat UVW"
 }
