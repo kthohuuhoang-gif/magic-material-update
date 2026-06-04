@@ -1,6 +1,8 @@
 {
-  "version": "1.0",
-  "url": "",
-  "sha256": "",
-  "notes": "Initial release"
+  "version": "1.1.1",
+  "url": "https://github.com/kthohuuhoang-gif/magic-material-update/releases/download/magic-latest-update/MagicMaterial_Update.zip",
+  "sha256": "6f22b682f3b418eef9d7b60876d0492bf0c2bbecd33ab9f2cf5e4ee40ecc4eaf",
+  "date": "2026-06-04",
+  "size": 2432447,
+  "notes": "Ban update dau tien"
 }
