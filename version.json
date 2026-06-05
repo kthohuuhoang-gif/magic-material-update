@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "url": "https://github.com/kthohuuhoang-gif/magic-material-update/releases/download/magic-latest-update/MagicMaterial_Update.zip",
-  "sha256": "285ff7a0c19abcedb7f68158be3f4c39bed7db0a07053a6ab7f1b5240e202547",
-  "date": "2026-06-04",
-  "size": 2501407,
-  "notes": "Bo sung tooltips. Cap nhat UVW"
+  "sha256": "0439756562569a41a1cdfb66b574d99144b5fddd1bf27159dc5b6b08c24d5a8c",
+  "date": "2026-06-05",
+  "size": 2523078,
+  "notes": "Cap nhat refresh UVW"
 }
