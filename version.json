@@ -1,8 +1,8 @@
 {
-  "version": "1.1.6",
+  "version": "1.2.0",
   "url": "https://github.com/kthohuuhoang-gif/magic-material-update/releases/download/magic-latest-update/MagicMaterial_Update.zip",
-  "sha256": "c1faabcd3b9138f233f345f7f955baf19d15c0a18010836c309fc86a193fd4b8",
-  "date": "2026-06-11",
-  "size": 2545282,
-  "notes": "Dieu chinh Giao dien gon gang. Ho tro live SME tot hon"
+  "sha256": "dd36e43e104c649061fd236364afa6bd064d966aa19439bd371901b7a0e0a532",
+  "date": "2026-06-15",
+  "size": 2999852,
+  "notes": "Nang cap Auto Unwrap. Cap nhat giao dien"
 }
