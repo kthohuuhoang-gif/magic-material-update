@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "url": "https://github.com/kthohuuhoang-gif/magic-material-update/releases/download/magic-latest-update/MagicMaterial_Update.zip",
-  "sha256": "6eb06ff7e97714b4e3a42b41d42b19cce24d46125ae4665effc080afd600a944",
-  "date": "2026-06-23",
-  "size": 3665238,
-  "notes": "Bo sung cac tinh nang dac biet nhu convert hang loat cho VL co ban. Support model import tu Sketchup. Hieu chinh live. "
+  "sha256": "60a277a3ea079ff9846b6afcee8deeed41c70ffeb6b753a94d84f96b0eb30945",
+  "date": "2026-06-25",
+  "size": 3670341,
+  "notes": "Dieu chinh fix bug ham save setting"
 }
