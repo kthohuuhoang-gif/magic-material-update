@@ -1,1 +1,8 @@
-
+{
+  "version": "1.4.2",
+  "url": "https://github.com/kthohuuhoang-gif/magic-material-update/releases/download/magic-latest-update/MagicMaterial_Update.zip",
+  "sha256": "62100f9e3f8f44d1ed71fcc8efd9792ecc15e44866edc66371e93778e1d2c171",
+  "date": "2026-07-01",
+  "size": 3697898,
+  "notes": "Support 2027 beta"
+}
