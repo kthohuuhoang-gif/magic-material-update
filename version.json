@@ -1,8 +1,8 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.4",
   "url": "https://github.com/kthohuuhoang-gif/magic-material-update/releases/download/magic-latest-update/MagicMaterial_Update.zip",
-  "sha256": "24a9c91368b99ca881b27e6069dd20fadfc1588b2924ed5d315a1e4f74fb7a3a",
-  "date": "2026-07-01",
-  "size": 3697777,
-  "notes": "Support 2027 beta"
+  "sha256": "9ee9b7e7a62a2dd457e70f276297385a2fb4c11fa96df0e5869151c87214c590",
+  "date": "2026-07-03",
+  "size": 3700370,
+  "notes": "Fix bug moi truong Qt do OpenCV nhung"
 }
