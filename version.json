@@ -1,8 +1,8 @@
 {
-  "version": "1.4.6",
+  "version": "2.0.0",
   "url": "https://github.com/kthohuuhoang-gif/magic-material-update/releases/download/magic-latest-update/MagicMaterial_Update.zip",
-  "sha256": "b4bdccd1d50d43dd3b1faaddde147917493e572aa9d5bbd708825cafb4416bc1",
-  "date": "2026-07-05",
-  "size": 3736918,
-  "notes": "Added support for encrypted archives (.zip, .rar, .7z) with advanced password management."
+  "sha256": "801550314011d86442b44aa2271862785f303d2a9a9b8944553ba22dbbf15daf",
+  "date": "2026-07-16",
+  "size": 29802164,
+  "notes": "Big Update"
 }
