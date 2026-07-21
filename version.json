@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.5",
   "url": "https://github.com/kthohuuhoang-gif/magic-material-update/releases/download/magic-latest-update/MagicMaterial_Update.zip",
-  "sha256": "801550314011d86442b44aa2271862785f303d2a9a9b8944553ba22dbbf15daf",
-  "date": "2026-07-16",
-  "size": 29802164,
-  "notes": "Big Update"
+  "sha256": "f2f5917dd52227737a64deb1b904a31a64a3df73bd95784f0caf199b58d49b0e",
+  "date": "2026-07-21",
+  "size": 30374762,
+  "notes": "Fix UVW"
 }
