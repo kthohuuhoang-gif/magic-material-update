@@ -1,8 +1,8 @@
 {
-  "version": "2.0.5",
+  "version": "2.0.7",
   "url": "https://github.com/kthohuuhoang-gif/magic-material-update/releases/download/magic-latest-update/MagicMaterial_Update.zip",
-  "sha256": "f2f5917dd52227737a64deb1b904a31a64a3df73bd95784f0caf199b58d49b0e",
+  "sha256": "94b0496d95f264269c8b6c4c7b3e59274bda41f917ca4dc01981b05dcea9e8ff",
   "date": "2026-07-21",
-  "size": 30374762,
-  "notes": "Fix UVW"
+  "size": 30388297,
+  "notes": "Improve library load time"
 }
