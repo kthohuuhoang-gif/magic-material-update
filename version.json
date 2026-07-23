@@ -1,8 +1,8 @@
 {
-  "version": "2.0.7",
+  "version": "2.0.8",
   "url": "https://github.com/kthohuuhoang-gif/magic-material-update/releases/download/magic-latest-update/MagicMaterial_Update.zip",
-  "sha256": "94b0496d95f264269c8b6c4c7b3e59274bda41f917ca4dc01981b05dcea9e8ff",
-  "date": "2026-07-21",
-  "size": 30388297,
-  "notes": "Improve library load time"
+  "sha256": "1cb15aaab6b8a97460c3c1707a8d571e45ef5e0c240fd589ecafe34193733594",
+  "date": "2026-07-23",
+  "size": 30436655,
+  "notes": "Hotfix"
 }
