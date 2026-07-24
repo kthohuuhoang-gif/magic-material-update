@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "url": "https://github.com/kthohuuhoang-gif/magic-material-update/releases/download/magic-latest-update/MagicMaterial_Update.zip",
-  "sha256": "85a24c269af507d7c58cffc07c50e05327729cd89ed1b7945329ea9d5f9cdf12",
+  "sha256": "b13982412582e853a6a169da1cdc9e766511285e4bb9bbbac50555a6bc341dcb",
   "date": "2026-07-24",
-  "size": 30446968,
-  "notes": "Hotfix R2"
+  "size": 30456755,
+  "notes": "Fix size UI"
 }
