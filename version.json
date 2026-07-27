@@ -1,8 +1,8 @@
 {
-  "version": "2.1.5",
+  "version": "2.1.7",
   "url": "https://github.com/kthohuuhoang-gif/magic-material-update/releases/download/magic-latest-update/MagicMaterial_Update.zip",
-  "sha256": "85585125d8df0681853fe362e85dc32ba995e930dfd5d495e62e9cdc6f1e0f91",
-  "date": "2026-07-26",
-  "size": 30540632,
-  "notes": "Fix download R2"
+  "sha256": "2fb7d394f185f446cabe307b2bdc64dc437f3cf2383a2737d1d85043214cb93b",
+  "date": "2026-07-27",
+  "size": 30678975,
+  "notes": "Improved material editing and cancel/restore reliability, safer texture ingest and batch conversion, more stable seamless generation and High Preview scheduling, and hardened update handling with integrity checks and automatic fallback to the installed version."
 }
