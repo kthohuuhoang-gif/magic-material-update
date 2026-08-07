@@ -1,8 +1,8 @@
 {
-  "version": "2.1.9",
+  "version": "2.2.0",
   "url": "https://github.com/kthohuuhoang-gif/magic-material-update/releases/download/magic-latest-update/MagicMaterial_Update.zip",
-  "sha256": "c7502576423e3c483ac3e9e58885cad2792fb88220db01ffcd86f490ddced987",
-  "date": "2026-07-30",
-  "size": 30852422,
-  "notes": "Fix render High PRV"
+  "sha256": "4e8cd6c2e9780c9801f6d2a60463a7c558e866decd9964fa24f7baeba7a584b8",
+  "date": "2026-08-07",
+  "size": 30856259,
+  "notes": "Fix QT 2025+"
 }
