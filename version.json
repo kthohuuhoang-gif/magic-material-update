@@ -1,8 +1,8 @@
 {
-  "version": "2.2.4",
+  "version": "2.2.6",
   "url": "https://github.com/kthohuuhoang-gif/magic-material-update/releases/download/magic-latest-update/MagicMaterial_Update.zip",
-  "sha256": "eaedbdedb6170fed6a8825fbb276f683158004845a43f405fce2c3d91654f491",
-  "date": "2026-08-12",
-  "size": 5684883,
-  "notes": "Update UI"
+  "sha256": "c4b772b7f405379ba4d7556cecdafd57ce4406f39f9c4199d374fa2315aa784a",
+  "date": "2026-08-13",
+  "size": 5687488,
+  "notes": "Fix Launch 2027"
 }
